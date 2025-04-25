@@ -1,7 +1,7 @@
 def optimize_power_generation():
     """
     Optimizes the power generation process to maintain a net electrical output of 1200 MWe +/- 5%,
-    accounting for variations in ambient conditions.
+    accounting for variations in ambient conditions
     """
 
     # 1. Get Current System State
